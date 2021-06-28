@@ -2,8 +2,8 @@
 import subprocess,os
 import imp
 def TTSnorm(text, punc = False, unknown = True, lower = True, rule = False ):
-    A=imp.find_module('vinorm')[1]
-
+    #A=imp.find_module('vinorm')[1]
+    A='/content/text2speech_demo/Vinorm/vinorm'
     #print(A)
     I=A+"/input.txt"
     with open(I,"w+") as fw:
