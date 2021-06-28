@@ -9,7 +9,7 @@ bcsđ#ban cán sự đảng
 bcvn#bưu chính việt nam
 bcvt#bưu chính viễn thông
 bcđqg#ban chỉ đạo quốc gia
-bcđt#ban chỉ đạo trung
+bcđt#bưu chính điện tử
 bcđđmđh#ban chỉ đạo đổi mới đại học
 bđvh#bưu điện văn hóa
 bdvhx#bưu điện văn hóa xã
@@ -135,7 +135,7 @@ cđan#con đường âm nhạc
 cđbc#cao đẳng bán công
 cđbđ#công đoàn bưu điện
 cđcn#cao đẳng công nghiệp
-cđcs#công đoàn cơ sở
+cđcs#chế độ chính sách
 cđcđ#cao đẳng cộng đồng
 cđdc#chất độc da cam
 cđkt#cao đẳng kỹ thuật
@@ -149,7 +149,6 @@ cđsp#cao đẳng sư phạm
 cđspmg#cao đẳng sư phạm mẫu giáo
 cđvc#công đoàn viên chức
 cđvcvn#công đoàn viên chức việt nam
-cđvn#cộng đồng việt nam
 cđxd#cao đẳng xây dựng
 cđxdvn#công đoàn xây dựng việt nam
 cđđh#cao đẳng đại học
@@ -223,7 +222,7 @@ hcvl#hội chợ việc làm
 hđdt#hội đồng dân tộc
 hđnd#hội đồng nhân dân
 hđtp#hội đồng thẩm phán
-hđtv#hàng đầu tại việt
+hđtv#hội đồng tư vấn
 hdxx#hội đồng xét xử
 hhhv#hoa hậu hoàn vũ
 hhtgnv#hoa hậu thế giới người việt
@@ -263,14 +262,12 @@ hđcdgsnn#hội đồng chức danh giáo sư nhà nước
 hđck#hội đồng chung khảo
 hđcn#hợp đồng chuyển nhượng
 hđct#hội đồng coi thi
-hđdt#hội đồng dân tộc
 hđgpmb#hội đồng giải phóng mặt bằng
 hđgtgt#hóa đơn giá trị gia tăng
 hđhc#hội đồng hương chính
 hđhn#hợp đồng hôn nhân
 hđkl#hội đồng kỷ luật
 hđlđ#hợp đồng lao động
-hđnd#hội đồng nhân dân
 hđnt#hội đồng nghệ thuật
 hđqg#hội đồng quốc gia
 hđqt#hội đồng quản trị
@@ -293,7 +290,7 @@ khls#khoa học lịch sử
 khqs#khoa học quân sự
 khtn#khoa học tự nhiên
 khxb#kế hoạch xuất bản
-khxh#khoa học xã hội
+khxh#khoa học xãn hội
 klgđ#kết luận giám định
 klqg#kỷ lục quốc gia
 kltg#kỷ lục thế giới
@@ -314,8 +311,7 @@ ktns#kinh tế ngân sách
 ktpt#kinh tế phát triển
 ktqd#kinh tế quốc dân
 ktqg#kế toán quốc gia
-ktqt#kiện tướng quốc tế
-ktth#kỹ thuật tổng hợp
+ktqt#kinh tế quốc tế
 ktth#kế toán thực hành
 kttt#kinh tế thị trường
 kttv#khí tượng thủy văn
@@ -331,7 +327,6 @@ lhchvhnt#liên hiệp các hội văn học nghệ thuật
 lhpn#liên hiệp phụ nữ
 lhpqt#liên hoan phim quốc tế
 lhpvn#liên hoan phim việt nam
-lhtt#lớp học tình thương
 lhtt#lễ hội truyền thống
 lhttqg#liên hợp thể thao quốc gia
 llpb#lý luận phê bình
@@ -346,7 +341,6 @@ lttt#lý thuyết truyền tin
 lđbb#liên đoàn bóng bàn
 lđbc#liên đoàn bóng chuyền
 lđbr#liên đoàn bóng rổ
-lđbđvn#liên đoàn bóng đá việt nam
 lđcl#liên đoàn cầu lông
 lđcs#lao động chính sách
 lđcđ#lừa đảo chiếm đoạt
@@ -434,7 +428,7 @@ nđtp#ngộ độc thực phẩm
 nđttn#nhà đầu tư trong nước
 pabt#phương án bồi thường
 pcbl#phòng chống bão lụt
-pccc#phòng cháy chữa cháy
+pccc#phòng cháy chửa cháy
 pccr#phòng chống cháy rừng
 pcdc#phòng chống dịch cúm
 pcgd#phổ cập giáo dục
@@ -503,9 +497,8 @@ qlttđt#quản lý trật tự đô thị
 qlxd#quản lý xây dựng
 qlxnk#quản lý xuất nhập khẩu
 qlđb#quản lý đường bộ
-qlđs#quản lý đường sông
 qlđs#quản lý đường sắt
-qlđt#quản lý đô thị
+qlđt#quản lý đào tạo
 qshn#quyền sở hữu nhà
 qsqk#quân sự quân khu
 qtlv#quỹ tấm lòng vàng
@@ -525,7 +518,6 @@ skct#sáng kiến cải tiến
 skđa#sân khấu điện ảnh
 skhđt#sở kế hoạch đầu tư
 skmt#sức khỏe môi trường
-skđa#sân khấu điện ảnh
 spcn#sản phẩm công nghiệp
 sphh#sản phẩm hàng hóa
 spkt#sư phạm kỹ thuật
@@ -615,7 +607,7 @@ tnlđ#tai nạn lao động
 tnmt#tài nguyên môi trường
 tnndcm#thanh niên nhân dân cách mạng
 tnnt#thanh niên nông thôn
-tntn#thanh niên tình nguyện
+tntn#thanh niên tình nguyện, tài nguyên thiên nhiên
 tnvn#tiếng nói việt nam
 tnxk#thanh niên xung kích
 tnxn#thanh niên xuất ngũ
@@ -638,7 +630,7 @@ ttbtdt#trung tâm bảo tồn di tích
 ttbvqtg#trung tâm bảo vệ quyền tác giả
 ttcd#trung tâm chống độc
 ttckvn#thị trường chứng khoán việt nam
-ttcn#thông tin công nghệ
+ttcn#thị trường chuyển nhượng
 ttctxh#thực tập công tác xã hội
 ttgdlđ#trung tâm giáo dục lao động
 ttgdsk#truyền thông giáo dục sức khỏe
@@ -704,7 +696,7 @@ vhhq#văn hóa hàn quốc
 vhlđ#văn hóa lao động
 vhlđhn#văn hóa lao động hữu nghị
 vhnn#văn học nước ngoài
-vhnt#văn hóa nghệ thuật
+vhnt#văn học nghệ thuật
 vhntcdttsvn#văn học nghệ thuật các dân tộc thiểu số việt nam
 vhntvn#văn hóa nghệ thuật việt nam
 vhqc#văn hóa quần chúng
@@ -796,13 +788,11 @@ ytbd#y tế bình dương
 đcđc#định canh định cư
 đhdl#đại học dân lập
 đhht#đồng hương hà tĩnh
-đhkh#đại học khoa học
 đhkhtn#đại học khoa học tự nhiên
 đhlđ#đại hội liên đoàn
 đhmtcn#đại học mỹ thuật công nghiệp
 đhnl#đại học nông lâm
 đhnđ#điều hòa nhiệt độ
-đhsp#đại học sư phạm
 đhspbk#đại học sư phạm bắc kinh
 đhtdtt#đại hội thể dục thể thao
 đhtv#đại học trà vinh
@@ -816,7 +806,7 @@ ytbd#y tế bình dương
 đkqg#điền kinh quốc gia
 đkst#đa khoa sóc trăng
 đktqt#đại kiện tướng quốc tế
-đkvn#đăng kiểm việt nam
+đkvn#điền kinh việt nam
 đkvđqg#đương kim vô địch quốc gia
 đkxt#đăng ký xét tuyển
 đlbtkl#định luật bảo toàn khối lượng
@@ -838,16 +828,13 @@ ytbd#y tế bình dương
 đtnn#đầu tư nước ngoài
 đtnđ#đường thủy nội địa
 đtpt#đầu tư phát triển
-đtqg#đội tuyển quốc gia
 đttn#đầu tư trong nước
 đttp#đấu thầu trái phiếu
 đtvt#điện tử viễn thông
 đtvtqg#điện tử viễn thông quốc gia
 đtđh#đào tạo đại học
 đvcđ#đoàn viên công đoàn
-đvtn#đoàn viên thanh niên
 đvtv#đơn vị thiên văn
-tmcp#thương mại cổ phần
 đhkhxhnv#đại học khoa học xã hội nhân văn
 bchtư#ban chấp hành trung ương
 lđbđ#liên đoàn bóng đá
@@ -886,7 +873,7 @@ bvtư#bệnh viện trung ương
 kttm#kinh tế thương mại
 gtđt#giao thông đô thị
 nqtư#nghị quyết trung ương
-lđtb&xh#lao động thương binh xã hội
+lđtb&xh#lao động thương binh và xã hội
 chtw#chấp hành trung ương
 anđt#an ninh điều tra
 ctck#công ty chứng khoán
@@ -914,9 +901,9 @@ hđndtp#hội đồng nhân dân thành phố
 lđbđtphcm#liên đoàn bóng đá thành phố hồ chí minh
 lsqsvn#lịch sử quân sự việt nam
 vhttdl#văn hóa thể thao du lịch
-tgpl#trợ giúp pháp luật
+tgpl#trợ giúp pháp lý
 cshcm#cộng sản hồ chí minh
-cpxd#cổ phần xây dựng
+cpxd#cấp phép xây dựng
 tthlqg#trung tâm huấn luyện quốc gia
 csbv#cảnh sát bảo vệ
 cand#công an nhân dân
@@ -1112,7 +1099,7 @@ vsdttư#vệ sinh dịch tể trung ương
 đpctpmt#đội phòng chống tội phạm ma túy
 csht#cơ sở hạ tầng
 gvgđ#giúp việc gia đình
-tcbvntd#tiêu chuẩn bảo vệ người tiêu dùng
+tcbvntd#tiêu chuẩn và bảo vệ người tiêu dùng
 ctcpxnklt#công ty cổ phần xuất nhập khẩu lương thực
 cnttvn#công nghiệp tàu thủy việt nam
 csgd#cơ sở giáo dục
@@ -1292,7 +1279,6 @@ cvpmqt#công viên phần mềm quang trung
 cđbđvn#công đoàn bưu điện việt nam
 cđcd#cao đẳng cộng đồng
 cđcnvn#công đoàn công nghiệp việt nam
-cđcs#chế độ chính sách
 cđcsvm#công đoàn cơ sở vững mạnh
 cđhn#cộng đồng hải ngoại
 cđvh#cao đẳng văn hóa
@@ -1356,7 +1342,7 @@ klhttqg#khu liên hợp thể thao quốc gia
 knds#khai nhận di sản
 ksgm#kiểm soát giết mổ
 kshs#khảo sát hàm số
-ktnn#kiểm toán nhà nước
+ktnn#kinh tế nhà nước
 ktsg#kinh tế sài gòn
 ktđc#khu tai định cư
 ktđn#kinh tế đối ngoại
@@ -1462,7 +1448,7 @@ tbđt#thuê bao điện thoại
 tccn#trung cấp chuyên nghiệp
 tcdn#tài chính doanh nghiệp
 tckd#trò chơi kinh doanh
-tckt#tài chính kế toán
+tckt#tài chính - kế toán
 tclđ#tranh chấp lao động
 tevn#trẻ em việt nam
 thcs#trung học cơ sở
@@ -1497,7 +1483,6 @@ tstc#trà sữa trân châu
 ttatgt#trật tự an toàn giao thông
 ttcc#trật tự công cộng
 ttchg#trung tâm cứu hộ gấu
-ttcn#thị trường chuyển nhượng
 ttgd#trung tâm giao dịch
 ttgdct#tập trung giáo dục cải tạo
 tthctl#trung tâm hội chợ triển lãm
@@ -1513,7 +1498,7 @@ ttqlkt#trật tự quản lý kinh tế
 ttthdl#trung tâm tích hợp dữ liệu
 tttttd#trung tâm thông tin tín dụng
 ttudcnm#trung tâm ứng dụng công nghệ mới
-ttvh#thể thao văn hóa
+ttvh#trung tâm văn hóa
 ttvhp#trung tâm văn hóa pháp
 ttxh#trật tự xã hội
 ttytq#trung tâm y tế quận
@@ -1562,7 +1547,7 @@ yhcthd#y học cổ truyền hải dương
 đhcn#đại học công nghiệp
 đhcnvc#đại hội công nhân viên chức
 đhct#đại học cần thơ
-đhcđ#đại học cao đẳng
+đhcđ#đại hội cổ đông, đại học công đoàn
 đhgtvt#đại học giao thông vận tải
 đhhp#đại học hải phòng
 đhhđ#đại học hiện đại
@@ -1580,12 +1565,12 @@ yhcthd#y học cổ truyền hải dương
 đtbđvn#đội tuyển bóng đá việt nam
 đtdđ#điện thoại di động
 đthvn#đài truyền hình việt nam
-đtla#đồng tâm long an
+đtla#đồng tính luyến ái
 đtnvn#đài tiếng nói việt nam
 đtst#đô thị sinh thái
-đtxdcb#đầu tư xây dựng cơ bản
+đtxdcb#đầu tư xây dựng cơ bả
 đvdt#đơn vị được trao
-xhcn#xã hội chũ nghĩa
+xhcn#xã hội chủ nghĩa
 khđt#kế hoạch đầu tư
 cbccvc#cán bộ công chức viên chức
 bchcđ#ban chấp hành công đoàn
@@ -1648,7 +1633,7 @@ gddh#giám đốc điều hành
 gdlđ#giao dịch lưu động
 gmtđ#giám mục tử đạo
 gntt#giảm nhẹ thiên tai
-gpnk#giấy phép nhập khẩu
+gpnk#phép nhập khẩu
 gtnn#giá trị nhỏ nhất
 gtvltn#giới thiệu việc làm thanh niên
 gđpytt#giám định pháp y tâm thần
@@ -1711,7 +1696,6 @@ tkcn#tìm kiếm cứu nạn
 tksvn#than khoáng sản việt nam
 tlcs#tuyển lựa ca sĩ
 tntq#trào ngược thực quản
-tnđh#tốt nghiệp đại học
 tnđt#thoát nước đô thị
 tpnt#tác phẩm nghệ thuật
 tsbht#tây sơn bi hùng truyện
@@ -1729,7 +1713,7 @@ ttth#trung tâm tin học
 tttkcn#trung tâm triển khai công nghệ
 tttt#thực tập thực tế
 ttty#tiểu thuyết tình yêu
-ttvn#trí tuệ việt nam
+ttvn#trí tuệ việt nam, trái tim việt nam, thể thao việt nam
 ttyt#trung tâm y tế
 tvkt#tư vấn kỹ thuật
 txbl#thị xã bạc liêu
@@ -1841,7 +1825,6 @@ cđspđl#cao đẳng sư phạm đà lạt
 datc#dự án tài chính
 daxdnmns#dự án xây dựng nhà máy nước sạch
 đhnt#đại học nghệ thuật
-đhxd#đại học xây dựng
 dldkpđ#du lịch dầu khí phương đông
 dmah#dòng máu anh hùng
 dmvn#dệt may việt nam
@@ -1904,7 +1887,7 @@ vmnm#viêm màng não mủ
 vnca#văn nghệ công an
 vnnb#viêm não nhật bản
 vphu#văn phòng huyện uỷ
-vpktst#văn phòng kiến trúc sư trưởng
+vpktst# văn phòng kiến trúc sư trưởng
 vpđkqsdđ#văn phòng đăng ký quyền sử dụng đất
 vqgtc#vườn quốc gia tràm chim
 vspd#vệ sinh phòng dịch
@@ -1986,7 +1969,6 @@ bđkh#biến đổi khí hậu
 bđtn#bóng đá trong nhà
 bđtp#bưu điện thành phố
 bđts#bộ đội trồng sắn
-bđvh#bưu điện văn hóa
 cbqlgd#cán bộ quản lý giáo dục
 cbsk#cảnh báo sức khỏe
 cchc#cải cách hành chính
@@ -2030,7 +2012,7 @@ ctmt#cấu trúc máy tính
 ctsn#chấn thương sọ não
 cttcmr#chương trình tiêm chủng mở rộng
 cttg#chính trị thế giới
-ctth#chương trình tiểu học
+ctth#chương trình truyền hình
 cttl#công trình thủy lợi
 ctxd#công trình xây dựng
 ctđkh#chữ thập đỏ khánh hòa
@@ -2065,9 +2047,8 @@ dttstn#dân tộc thiểu số tây nguyên
 dvbv#dịch vụ bảo vệ
 dvci#dịch vụ công ích
 dvdl#dịch vụ du lịch
-dvtt#dịch vụ trực tuyến
+dvtt#dịch vụ trực tuyến, dịch vụ thông tin
 dvvltn#dịch vụ việc làm thanh niên
-dvđa#diễn viên điện ảnh
 gcnclct#giấy chứng nhận chất lượng công trình
 gcnkqts#giấy chứng nhận kết quả tuyển sinh
 gcnđkkd#giấy chứng nhận đăng ký kinh doanh
@@ -2075,7 +2056,7 @@ gcnđt#giấy chứng nhận đầu tư
 gdcn#giáo dục chuyên nghiệp
 gdcđ#giáo dục cộng đồng
 gdqp#giáo dục quốc phòng
-gdđh#giáo dục đại học
+gdđh#giáo dục dục đại học
 ghpgvntn#giáo hội phật giáo việt nam thống nhất
 gmmtđ#giá mua một thượng đế
 gnct#gặp nhau cuối tuần
@@ -2089,10 +2070,9 @@ gvch#giáo viên cơ hữu
 gđkkd#giấy đăng ký kinh doanh
 gđns#giám đốc nhân sự
 gđsx#giám đốc sản xuất
-gđxh#gia đình xã hội
 hagl#hoàng anh gia lai
 hcch#hội chứng chuyển hóa
-hctl#hội chợ triển lãm
+hctl#hội chợ triển lăm
 hdnt#hội đồng nghệ thuật
 hdtq#hoa đức tinh quân
 hdxl#hợp doanh xây lắp
@@ -2137,7 +2117,6 @@ hđqpan#hội đồng quốc phòng an ninh
 hđtt#hội đồng trọng tài
 hđttcc#hội đồng thi tuyển công chức
 hđttqg#hội đồng trọng tài quốc gia
-hđtv#hội đồng tư vấn
 hđxx#hội đồng xét xử
 hđđt#hội đồng đấu thầu
 kbnn#kho bạc nhà nước
@@ -2147,7 +2126,7 @@ kcbmp#khám chữa bệnh miễn phí
 kchtđs#kết cấu hạ tầng đường sắt
 kcnc#khu công nghệ cao
 kdbđs#kinh doanh bất động sản
-kddv#kiểm dịch động vật
+kddv#kinh doanh dịch vụ
 kdlsl#khu du lịch sông lô
 kdlvt#khu du lịch văn thánh
 khth#khoa học tổng hợp
@@ -2167,7 +2146,6 @@ ktcs#kỉ thuật cơ sở
 ktht#kinh tế hợp tác
 ktmn#kinh thánh mỗi ngày
 ktqs#kỹ thuật quân sự
-ktqt#kinh tế quốc tế
 ktst#kiến trúc sư trưởng
 kttmđb#kinh tế thương mại đặc biệt
 kttn#kinh tế thanh niên
@@ -2208,7 +2186,7 @@ mslđ#mất sức lao động
 mtth#ma túy tổng hợp
 mtxt#máy tính xách tay
 mtđb#máy tính để bàn
-mtđt#môi trường đô thị
+mtđt#máy tính điện tử
 mxnb#mùa xuân nhớ bác
 mđln#mía đường la ngà
 nccb#nghiên cứu cơ bản
@@ -2254,7 +2232,7 @@ onkq#ống nội khí quản
 pcdcgc#phòng chống dịch cúm gia cầm
 pcmt#phần cứng máy tính
 pcthtl#phòng chống tác hại thuốc lá
-pctn#phòng chống tham nhũng
+pctn#phòng chống tệ nạn
 pctnxh#phòng chống tệ nạn xã hội
 pgcm#phân giới cắm mốc
 pgdvl#phiên giao dịch việc làm
@@ -2277,7 +2255,7 @@ ptnt#phát triển nông thôn
 ptntđ#phòng thí nghiệm trọng điểm
 ptth#phổ thông trung học
 pttn#phòng thu tư nhân
-pttt#phát triển thị trường
+pttt#phát triển trẻ thơ
 ptvn#phim truyện việt nam
 ptxd#phế thải xây dựng
 pvshđl#phân viện sinh học đà lạt
@@ -2335,7 +2313,7 @@ tbmmn#tai biến mạch máu não
 tbth#thiết bị trường học
 tbtkđ#thiết bị tiết kiệm điện
 tcbp#thừa cân béo phì
-tccs#tổng cục cảnh sát
+tccs#tổ chức cơ sở, tạp chí cộng sản
 tcdl#tổng cục du lịch
 tcdlvn#tổng cục du lịch việt nam
 tchtq#tổng công hội trung quốc
@@ -2343,7 +2321,7 @@ tcmrqg#tiêm chủng mở rộng quốc gia
 tctc#tổ chức tài chính
 tctd#tổ chức tín dụng
 tctk#tổng cục thống kê
-tctt#tài chính tiền tệ
+tctt#trò chơi trực tuyến
 tcvsg#thảo cầm viên sài gòn
 tcxdvn#tiêu chuẩn xây dựng việt nam
 tcđlcl#tiêu chuẩn đo lường chất lượng
@@ -2355,7 +2333,7 @@ tgdđ#thế giới di động
 tggt#thế giới giải trí
 tgpn#thế giới phụ nữ
 tgvh#thế giới văn hóa
-thdl#tiểu học dân lập
+thdl#trung học dân lập
 thgt#tín hiệu giao thông
 thkt#thực hành kế toán
 thns#thương hiệu nông sản
@@ -2400,7 +2378,7 @@ ttck#thị trường chứng khoán
 ttcnmt#tiểu thủ công nghiệp miền trung
 ttcp#thanh tra chính phủ
 ttcpqg#trung tâm chiếu phim quốc gia
-ttct#tôm thẻ chân trắng
+ttct#thể thao cuối tuần
 ttcv#thanh tra công vụ
 ttcđ#trung tâm cá độ
 ttdb#tiêu thụ đặc biệt
@@ -2413,10 +2391,9 @@ ttgdbđs#trung tâm giao dịch bất động sản
 ttgdckhn#trung tâm giao dịch chứng khoán hà nội
 ttgdlđxh#trung tâm giáo dục lao động xã hội
 ttgdtx#trung tâm giáo dục thường xuyên
-ttgt#thanh tra giao thông
+ttgt#trật tự giao thông
 ttgtsp#trung tâm giới thiệu sản phẩm
 ttgtvlbđ#trung tâm giới thiệu việc làm bình định
-ttgđ#tiếp thị gia đình
 tthc#thủ tục hành chính
 tthk#tiếp thị hành khách
 tthtsv#trung tâm hỗ trợ sinh viên
@@ -2446,7 +2423,7 @@ ttytdp#trung tâm y tế dự phòng
 ttytdphn#trung tâm y tế dự phòng hà nội
 ttytnt#trung tâm y tế ngành than
 tt&tt#thông tin và truyền thông
-ttđb#tiêu thụ đặc biệt
+ttđb#thuế tiêu thụ đặc biệt
 ttđh#trung tâm điều hành
 ttđk#trung tâm đăng kiểm
 ttđt#thông tin điện tử
@@ -2469,7 +2446,6 @@ tđsl#thủy điện sơn la
 tđtn#trường đào tạo nghề
 ubbc#ủy ban bầu cử
 ubcknn#ủy ban chứng khoán nhà nước
-ubdt#ủy ban dân tộc
 ubdt#ủy ban điều tra
 ubdtmn#ủy ban dân tộc miền núi
 ubkhcn#uỷ ban khoa học công nghệ
@@ -2556,10 +2532,7 @@ ytdp#y tế dự phòng
 đhbkhn#đại học bách khoa hà nội
 đhclc#đại học chất lượng cao
 đhhn#đại học hà nội
-đhkt#đại học kinh tế
-đhnn#đại học ngoại ngữ
-đhnt#đại học nghệ thuật
-đhqghn#đại học quốc gia hà nội
+đhnn#đại học nông nghiệp
 đhqgvn#đại học quốc gia việt nam
 đhskđa#đại học sân khấu điện ảnh
 đhtn#đại học thái nguyên
@@ -2593,7 +2566,7 @@ ytdp#y tế dự phòng
 đvtl#đơn vị tâm lý
 đbscl#đồng bằng sông cửu long
 dntn#doanh nghiệp tư nhân
-nnptnt#nông nghiệp phát triển nông thôn
+nnptnt#nông nghiệp và phát triển nông thôn
 tnhh#trách nhiệm hữu hạn
 tncs#thanh niên cộng sản
 đkvđ#đương kim vô địch
@@ -2601,14 +2574,11 @@ lđpt#lao động phổ thông
 csđt#cảnh sát điều tra
 lđtbxh#lao động thương binh xã hội
 khxhnv#khoa học xã hội nhân văn
-gsts#giáo sư tiến sĩ
-gdđt#giáo dục đào tạo
-nnptnt#nông nghiệp phát triển nông thôn
+gdđt#giáo dục & đào tạo
 hssv#học sinh sinh viên
 atvsv#an toàn vệ sinh viên
 bđbp#bộ đội biên phòng
 bvkv#bệnh viện khu vực
-đhnn#đại học nông nghiệp
 dlvn#du lịch viết nam
 tnxh#tệ nạn xã hội
 bqpm#bản quyền phần mềm
@@ -2683,7 +2653,6 @@ hđktqh#hội đồng kiến trúc quy hoạch
 hđlb#hội đồng liên bang
 hđmc#hẹp động mạch cảnh
 hđsk#hoạt động sáng kiến
-hđtp#hội đồng thẩm phán
 hđtđkt#hội đồng thi đua khen thưởng
 hđvb#hội đồng văn bằng
 hđxltnvc#hội đồng xử lý trách nhiệm vật chất
@@ -2751,7 +2720,6 @@ nsvmđt#nếp sống văn minh đô thị
 nsvsmt#nước sạch vệ sinh môi trường
 ntbv#nhà thuốc bệnh viện
 ntlstp#nghĩa trang liệt sĩ thành phố
-ntnn#nhà thầu nước ngoài
 ntnn#nông thôn ngày nay
 ntvt#người tốt việt tốt
 nvca#nhà văn công an
@@ -2815,18 +2783,17 @@ sddbt#suy dinh dưỡng bào thai
 sdđnn#sử dụng đất nông nghiệp
 shpt#sinh học phổ thông
 skcđ#sức khoẻ cộng đồng
-skss#sức khoẻ sinh sản
+skss#sức khỏe sinh sản
 srkst#sốt rét ký sinh trùng
 stqc#sang thương quanh chóp
 sttk#sợi trục thần kinh
 svnckh#sinh viên nghiên cứu khoa học
 svđtt#sân vận động trung tâm
-sxkd#sản xuất kinh doanh
 sxxnkbd#sản xuất xuất nhập khẩu bình dương
 tadn#tiếng anh doanh nghiệp
 tccq#tổ chức chính quyền
 tcct#tổng cục chính trị
-tckh#tạp chí khoa học
+tckh#tài chính - kế hoạch, tạp chí khoa học, trái cây không hạt
 tcmn#thủ công mỹ nghệ
 tcmr#tiêm chủng mở rộng
 tcnh#tài chính ngân hàng
@@ -2846,7 +2813,7 @@ tgvt#thế giới vi tính
 thads#thi hành án dân sự
 thapt#thi hành án phạt tù
 thbđ#tin học bình định
-thcb#tin học cơ bản
+thcb#trung học chuyên ban
 thcvn#truyền hình cáp việt nam
 thktnv#trung học kỹ thuật nghiệp vụ
 thnc#trung hòa nhân chính
@@ -2932,7 +2899,6 @@ ubhckc#uỷ ban hành chính kháng chiến
 vcty#ván cờ tình yêu
 vlca#vật lý châu á
 vpcn#văn phòng công nhận
-vpktst# văn phòng kiến trúc sư trưởng
 vsđc#vi sinh đại cương
 vttc#vươn tới thành công
 xdcn#xây dựng công nghiệp
@@ -2991,7 +2957,6 @@ ctđ#chữ thập đỏ
 cvh#cung văn hóa
 cvđ#cuộc vận động
 cxt#chất xúc tác
-cđv#cổ động viên
 đđk#đại đoàn kết
 đpt#đa phương tiện
 gx#giáo xứ
@@ -3000,7 +2965,7 @@ hnb#hội nhà báo
 hsg#học sinh giỏi
 hsv#hội sinh viên
 htx#hợp tác xã
-hđh#hiện đại hóa
+hđh#hệ điều hành
 kcb#khám chữa bệnh
 kcn#khu công nghiệp
 kcx#khu chế xuất
@@ -3038,19 +3003,18 @@ xnk#xuất nhập khẩu
 đnb#đông nam bộ
 đrl#điểm rèn luyện
 đtb#điểm trung bình
-đđk#đại đoàn kết
 nxb#nhà xuất bản
 pts#phó tiến sĩ
-đb#đại biểu
+đb#đại biểu, đồng bằng
 nđ#nghị định
 vđ#vô địch
-hđ#hội đồng
+hđ#hội đồng, hợp đồng
 bđh#ban điều hành
 đsq#đại sứ quán
 bgđ#ban giám đốc
-ck#chung kết
-tv#ti vi
-cb#cán bộ
+ck#chứng khoán
+tv#thư viện, tivi
+cb#cơ bản, cán bộ, chế biến
 vp#văn phòng
 xk#xuất khẩu
 nk#nhập khẩu
@@ -3061,8 +3025,8 @@ sx#sản xuất
 ntd#người tiêu dùng
 hv#học viên
 uv#ủy viên
-bk#bán kết
-qc#quảng cáo
+bk#bách khoa
+qc#quy chế
 đná#đông nam á
 bst#bộ sưu tập
 bđg#bán đấu giá
@@ -3083,7 +3047,7 @@ tbn#tây ban nha
 tmh#tai mũi họng
 vnd#việt nam đồng
 vđv#vận động viên
-đt#điện thoại
+đt#đào tạo
 qh#quốc hội
 bxh#bảng xếp hạng
 bhl#ban huấn luyện
@@ -3113,7 +3077,7 @@ tx#thị xã
 bgh#ban giám hiệu
 hs#học sinh
 hcv#huy chương vàng
-dv#dịch vụ
+dv#dịch vụ, diễn viên
 xh#xã hội
 gv#giáo viên
 pgđ#phó giám đốc
@@ -3122,7 +3086,6 @@ bcs#bao cao su
 byt#bộ y tế
 clc#chất lượng cao
 đbp#điện biên phủ
-hđh#hệ điều hành
 lsq#lãnh sự quán
 tb#thông báo
 tp#thành phố
@@ -3130,9 +3093,197 @@ TS#tiến sĩ
 ub#uỷ ban
 bs#bác sĩ
 ch#cộng hòa
-vnđ#việt nam đồng
-vnd#việt nam đồng
 kw#kí lô quát
 SN#sinh năm
 IoT#ai ô tê
 TCN#trước công nguyên
+ts#tiến sĩ
+sn#sinh năm, sinh ngày
+iot#ai ô tê
+tcn#trung cấp nghề
+atm#máy rút tiền tự động
+attt#an toàn trật tự
+atttgt#an toàn trật tự giao thông
+bc#bán công, bưu chính
+bđ#bóng đá
+bh#bảo hiểm
+bhđc#bán hàng đa cấp
+bt#bảo trì, bộ trưởng
+bta#hiệp định thương mại việt - mỹ
+cđ#cao đẳng
+copd#bệnh phổi tắc nghẽn mãn tính
+cp#cổ phần, cổ phiếu
+cpe#hợp đồng lao động đầu tiên
+cph#cổ phần hóa
+cpsxtm#cổ phần xây dựng sản xuất thương mại
+cptd#cổ phiếu tự do
+cpttt#chậm phát triển trí tuệ
+csđtlx#cơ sở đào tạo lái xe
+cspk#công suất phản kháng
+ct#chính trị, công ty
+ctcc#công trình công cộng
+ctn#chuyển tiền nhanh
+cttc#cho thuê tài chính
+cttt#chương trình tiên tiến
+cx#cư xá
+dagtđt#dự án giao thông đô thị
+đbdt#đồng bào dân tộc
+đc#địa chỉ, điều chế
+dcch#dân chủ cộng hòa
+dd#dân dụng, dinh dưỡng
+đd#đại diện
+đđ#động đất, đất đai
+đhn#điện hạt nhân, đồng hồ nước
+đk#đăng ký
+dl#du lịch
+đl#đo lường
+đltp#điện kế điện tử
+đmn#đá mỹ nghệ
+dn#doanh nghiệp
+dnt#doanh nghiệp trẻ
+ds#dân số
+đs#đường sắt
+dt#dự tuyển
+đta#đồng tính ái
+đtđ#đái tháo đường
+đttx#đào tạo từ xa
+đttxqm#đào tạo từ xa qua mạng
+đtvhd#động thực vật hoang dã
+đvht#đơn vị học trình
+gatt#hiệp định chung về thuế quan và thương mại
+gcn#giấy chứng nhận
+gcnkqt#giấy chứng nhận kết quả thi
+gcnqsdđơ#giấy chứng nhận quyền sử dụng đất ở
+gcnqshn#giấy chứng nhận quyền sở hữu nhà
+gcnqshnơ#giấy chứng nhận quyền sở hữu nhà ở
+gcq#giấy chủ quyền
+gd#giáo dục
+gdnn#giáo dục nghề nghiệp
+gk#giáo khoa
+gkqt#chứng nhận kết quả thi
+gp#giấy phép
+gplhđb#giấy phép lưu hành đặc biệt
+gt#giao thông , giá trị
+hb#học bổng
+hbv#virus viêm gan b
+hc#hành chính, huy chương
+hcđ#huy chương đồng
+hctc#học chế tín chỉ
+hd#hướng dẫn
+hk#học kỳ
+hl#huấn luyện
+hn#hà nội, hội nghị
+hp#hải phòng, học phần
+hq#hải quan, hàn quốc
+hsdpa#truy nhập gói đường xuống tốc độ cao
+htcđ#học tập cộng đồng
+hvncl#hàng việt nam chất lượng
+imf#quỹ tiền tệ quốc tế
+kdcn#kiểu dáng công nghiệp
+kdđv#kiểm dịch động vật
+kdhđc#kinh doanh hàng đa cấp
+kdn#kinh doanh nhà
+kđs#khu đường sông
+kh#kế hoạch
+khkd#kế hoạch kinh doanh
+kk#khuyến khích
+kl#kết luận
+kn#khuyến nông
+kp#khu phố
+kst#ký sinh trùng
+ktm#khu thương mại
+kv#khu vực
+lb#liên bang
+lct#luật cạnh tranh, luật công ty
+lđ#lao động
+lh#liên hiệp, liên hoan
+lhq#liên hiệp quốc, lên hợp quốc
+ll#lực lượng
+mbh#mũ bảo hiểm
+ms#mã số
+mt#môi trường, mặt trận
+nc#nghiên cứu
+ncc#nhà cung cấp
+ncl#ngoài công lập
+nd#nhân dân
+ndt#nhân dân tệ
+nh#ngân hàng
+nknv#năng khiếu nghiệp vụ
+nl#năng lượng
+nls#nông lâm sản
+nn#nhà nước
+npp#nhà phân phối
+nq#nghị quyết
+nqd#ngoài quốc doanh
+nst#nhiễm sắc thể
+nv#nhân viên, nguyện vọng
+nv1#nguyện vọng 1
+nv2#nguyện vọng 2
+nv3#nguyện vọng 3
+pcbltkcn#phòng chống bão lụt và tìm kiếm cứu nạn
+pcbth#phổ cập bậc trung học
+pcgdthcs#phổ cập giáo dục trung học cơ sở
+pclbtw#phòng chống lụt bão trung ương
+pl#pháp luật
+pm#phần mềm
+pn#phụ nữ
+pntr#quy chế thương mại bình thường vĩnh viễn
+pp#phương pháp
+ps#phóng sự
+ptn#phòng thí nghiệm
+qbltd#quĩ bảo lãnh tín dụng
+qcdccs#quy chế dân chủ cơ sở
+qcgnhh#quy chế ghi nhãn hàng hóa
+qckdtxd#quy chế kinh doanh thép xây dựng
+qckt#quy chuẩn kĩ thuật
+qđ#quyết định
+qg#quốc gia
+qk#quân khu
+ql#quản lý
+qld#quản lý dược
+qsd#quyền sử dụng
+rlc#rối loạn cương
+sars#sars, hội chứng hô hấp cấp tính nặng
+sd#sử dụng
+sđk#số đăng ký
+sh#sinh hoạt
+shtd#sinh hoạt tình dục
+sk#sân khấu
+sp#sư phạm, sản phẩm
+ss#sĩ số
+sxh#sốt xuất huyết
+syll#sơ yếu lý lịch
+tc#tài chính, tổng cộng
+tchl#tuyệt chủng hàng loạt
+tcnn#tài chính nhà nước
+tct#tổng công ty
+td#tình dục
+tđ#từ điển
+tđc#tái định cư
+tdttqg#thể dục thể thao quốc gia
+tg#thế giới
+th#truyền hình, trung học
+thcsnd#thực hiện chính sách nhà đất
+thkts#truyền hình kỹ thuật số
+thktsmđ#truyền hình kỹ thuật số mặt đất
+ths#tín hiệu số
+tk#thiết kế
+tnk#thuế nhập khẩu
+tpcđ#trái phiếu chuyển đổi
+tpct#thành phố cần thơ
+tt#trung tâm, thị trường
+ttbdvhng#trung tâm bồi dưỡng văn hóa ngoài giờ
+tw#trung ương
+ut#ung thư
+vd#ví dụ
+vh#văn hóa
+vhgdttnnđ#văn hóa giáo dục thanh thiếu niên và nhi đồng
+vl#vật lý
+vqg#vườn quốc gia
+vs#vệ sinh
+vt#viên thông, vi tính, vũ trụ
+wto#tổ chức thương mại thế giới
+xhh#xã hội hóa
+xn#xí nghiệp
+xx#xét xử
+ytế#y tế
