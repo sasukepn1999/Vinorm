@@ -1,3 +1,8 @@
+### Quickly Tutorial
+link: https://colab.research.google.com/drive/1nIOk3FiRkZns8kz4BLkylR8xlJuq5ceK?usp=sharing
+
+### Install Vinorm package
+
 Install ViNorm package
 ```
 pip install vinorm
